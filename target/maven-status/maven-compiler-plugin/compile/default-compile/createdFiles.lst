@@ -1,0 +1,6 @@
+com\bdd\framework\utils\propertyLoader.class
+com\bdd\framework\testrunner.class
+com\bdd\framework\AutomationSuite.class
+com\bdd\framework\StepDefinition.class
+com\bdd\framework\helper\WebDriverHelper.class
+com\bdd\framework\WebdriverAction.class
